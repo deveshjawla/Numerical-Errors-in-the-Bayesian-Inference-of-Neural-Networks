@@ -8,9 +8,11 @@
 
 Firstly we need to download this repository and setup the project, in the command terminal we type as follows:
 
-git clone https://github.com/deveshjawla/MuZero.jl
-cd MuZero.jl
+```
+git clone https://github.com/deveshjawla/Numerical-Errors-in-the-Bayesian-Inference-of-Neural-Networks
+cd Numerical-Errors-in-the-Bayesian-Inference-of-Neural-Networks
 julia --project -e 'import Pkg; Pkg.instantiate()'
+```
 
 Now using any editor of choice such as Visual Studio Code, we can start running the experiements from the dataset folder.
 
